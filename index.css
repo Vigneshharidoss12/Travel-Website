@@ -1,0 +1,41 @@
+body{
+    height: 250vh;
+    
+}
+#carouselExampleCaptions{
+    border: 1px solid white;
+    height: 120vh;
+    
+    
+}
+#card{
+    border: 1px solid white;
+    border-bottom: 3px solid whitesmoke;
+    height: 80vh;
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 50px;
+}
+#card2{
+    border: 1px solid white;
+    border-bottom: 3px solid whitesmoke;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.rounded-circle{
+    margin-left: 80px;
+}
+
+.col-md-8{
+    margin-top: 60px;
+}
+.col-md-4{
+
+    margin-top: 60px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
